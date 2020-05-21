@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dinesh Kumar</title>
-    <link>https://www.dineshkr.me/</link>
+    <link>/</link>
     <description>Recent content on Dinesh Kumar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 May 2020 23:02:48 -0700</lastBuildDate>
     
-	<atom:link href="https://www.dineshkr.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Love Letter to Kate Bush</title>
-      <link>https://www.dineshkr.me/posts/kate-bush/</link>
+      <link>/posts/kate-bush/</link>
       <pubDate>Sun, 17 May 2020 23:02:48 -0700</pubDate>
       
-      <guid>https://www.dineshkr.me/posts/kate-bush/</guid>
+      <guid>/posts/kate-bush/</guid>
       <description>Kate on her first tour
   I discovered Kate Bush on yet another of my late night TV Tropes binges. I was looking to see if harsh vocals existed outside of metal when I came upon a description of Waking the Witch : &amp;ldquo;Kate Bush used it in 1985 with &amp;ldquo;Waking The Witch&amp;rdquo;. In this case, she provided both voices: one track is her natural voice, the other is a drastically slowed down demonic growl.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://www.dineshkr.me/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.dineshkr.me/about/</guid>
+      <guid>/about/</guid>
       <description>Hi! My name is Dinesh, you may also know me as dosa_boi from other circles. I&amp;rsquo;m currently a CS and Astronomy Junior at UIUC.
 Besides coding, I like to cook, sing, backpack and stargaze. You&amp;rsquo;ll see me writing posts about these alongside whatever else comes to mind.
 Enjoy your stay!</description>
